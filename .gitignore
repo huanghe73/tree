@@ -21,7 +21,6 @@ package-lock.json
 .build
 node_modules
 .cache
-dist
 *.css
 build
 lib
